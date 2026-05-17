@@ -1,0 +1,10 @@
+export const ROUND_TIME_MS = 10_000;
+export const REVEAL_TIME_MS = 5_000;
+export const COUNTDOWN_SECONDS = 3;
+export const TOTAL_ROUNDS = 20;
+export const MAX_SCORE_PER_ROUND = 1000;
+export const MAX_DELTA_E = 50;
+export const DEFAULT_MAX_PLAYERS = 30;
+export const ROOM_CODE_LENGTH = 4;
+export const TICK_INTERVAL_MS = 1_000;
+export const DEFAULT_WS_PORT = 3001;

@@ -1,0 +1,290 @@
+[
+  {
+    "id": "tom_cat-body_fur",
+    "characterName": "Tom",
+    "showSource": "Tom and Jerry (1940)",
+    "targetPart": "Body Fur",
+    "trueHexCode": "#7d8286",
+    "imagePath": "/characters/tom_cat.webp"
+  },
+  {
+    "id": "ord_dragon-body_skin",
+    "characterName": "Ord",
+    "showSource": "Dragon Tales (1999)",
+    "targetPart": "Body Skin",
+    "trueHexCode": "#369fa5",
+    "imagePath": "/characters/ord_dragon.webp"
+  },
+  {
+    "id": "kim_possible-cargo_pants",
+    "characterName": "Kim Possible",
+    "showSource": "Kim Possible (2002)",
+    "targetPart": "Cargo Pants",
+    "trueHexCode": "#9fa276",
+    "imagePath": "/characters/kim_possible.webp"
+  },
+  {
+    "id": "winnie_pooh-body_fur",
+    "characterName": "Winnie the Pooh",
+    "showSource": "The New Adventures of Winnie the Pooh (1988)",
+    "targetPart": "Body Fur",
+    "trueHexCode": "#db8c2d",
+    "imagePath": "/characters/winnie_pooh.webp"
+  },
+  {
+    "id": "ben_10-omnitrix_core",
+    "characterName": "Ben Tennyson",
+    "showSource": "Ben 10 (2005)",
+    "targetPart": "Omnitrix Core",
+    "trueHexCode": "#91ff16",
+    "imagePath": "/characters/ben_10.webp"
+  },
+  {
+    "id": "gumball_watterson-fur",
+    "characterName": "Gumball Watterson",
+    "showSource": "The Amazing World of Gumball (2011)",
+    "targetPart": "Fur",
+    "trueHexCode": "#44c0e4",
+    "imagePath": "/characters/gumball_watterson.webp"
+  },
+  {
+    "id": "patrick_star-shorts",
+    "characterName": "Patrick Star",
+    "showSource": "SpongeBob SquarePants (1999)",
+    "targetPart": "Shorts",
+    "trueHexCode": "#a1e82f",
+    "imagePath": "/characters/patrick_star.webp"
+  },
+  {
+    "id": "beavis-hair",
+    "characterName": "Beavis",
+    "showSource": "Beavis and Butt-Head (1993)",
+    "targetPart": "Hair",
+    "trueHexCode": "#dfa833",
+    "imagePath": "/characters/beavis.webp"
+  },
+  {
+    "id": "lois_griffin-shirt",
+    "characterName": "Lois Griffin",
+    "showSource": "Family Guy (1999)",
+    "targetPart": "Shirt",
+    "trueHexCode": "#22e3b9",
+    "imagePath": "/characters/lois_griffin.webp"
+  },
+  {
+    "id": "jake_the_dog-body_fur",
+    "characterName": "Jake the Dog",
+    "showSource": "Adventure Time (2010)",
+    "targetPart": "Body Fur",
+    "trueHexCode": "#fdc801",
+    "imagePath": "/characters/jake_the_dog.webp"
+  },
+  {
+    "id": "homer_simpson-skin",
+    "characterName": "Homer Simpson",
+    "showSource": "The Simpsons",
+    "targetPart": "Skin",
+    "trueHexCode": "#FED90F",
+    "imagePath": "/characters/homer_simpson.webp"
+  },
+  {
+    "id": "morty_smith-t_shirt",
+    "characterName": "Morty Smith",
+    "showSource": "Rick and Morty (2013)",
+    "targetPart": "T-Shirt",
+    "trueHexCode": "#FFF86D",
+    "imagePath": "/characters/morty_smith.webp"
+  },
+  {
+    "id": "spongebob-body",
+    "characterName": "SpongeBob",
+    "showSource": "SpongeBob SquarePants (1999)",
+    "targetPart": "Body",
+    "trueHexCode": "#FEEF00",
+    "imagePath": "/characters/spongebob.webp"
+  },
+  {
+    "id": "shaggy_rogers-t_shirt",
+    "characterName": "Shaggy Rogers",
+    "showSource": "Scooby-Doo, Where Are You! (1969)",
+    "targetPart": "T-Shirt",
+    "trueHexCode": "#85A711",
+    "imagePath": "/characters/shaggy_rogers.webp"
+  },
+  {
+    "id": "eric_cartman-jacket",
+    "characterName": "Eric Cartman",
+    "showSource": "South Park (1997)",
+    "targetPart": "Jacket",
+    "trueHexCode": "#D71D3F",
+    "imagePath": "/characters/eric_cartman.webp"
+  },
+  {
+    "id": "finn_human-backpack",
+    "characterName": "Finn the Human",
+    "showSource": "Adventure Time (2010)",
+    "targetPart": "Backpack",
+    "trueHexCode": "#4FA526",
+    "imagePath": "/characters/finn_human.webp"
+  },
+  {
+    "id": "mickey_mouse-shorts",
+    "characterName": "Mickey Mouse",
+    "showSource": "Steamboat Willie (1928)",
+    "targetPart": "Shorts",
+    "trueHexCode": "#BF3332",
+    "imagePath": "/characters/mickey_mouse.webp"
+  },
+  {
+    "id": "goku-turtle_hermit_gi",
+    "characterName": "Goku",
+    "showSource": "Dragon Ball Z (1989)",
+    "targetPart": "Turtle Hermit Gi",
+    "trueHexCode": "#F06E26",
+    "imagePath": "/characters/goku.webp"
+  },
+  {
+    "id": "aang-air_nomad_tattoos",
+    "characterName": "Aang",
+    "showSource": "Avatar: The Last Airbender (2005)",
+    "targetPart": "Air Nomad Tattoos",
+    "trueHexCode": "#94C0E5",
+    "imagePath": "/characters/aang.webp"
+  },
+  {
+    "id": "peter_griffin-trousers",
+    "characterName": "Peter Griffin",
+    "showSource": "Family Guy (1999)",
+    "targetPart": "Trousers",
+    "trueHexCode": "#206603",
+    "imagePath": "/characters/peter_griffin.webp"
+  },
+  {
+    "id": "pink_panther-skin",
+    "characterName": "Pink Panther",
+    "showSource": "The Pink Panther (1969)",
+    "targetPart": "Skin",
+    "trueHexCode": "#ff96b0",
+    "imagePath": "/characters/pink_panther.webp"
+  },
+  {
+    "id": "bugs_bunny-skin",
+    "characterName": "Bugs Bunny",
+    "showSource": "Looney Tunes (1930)",
+    "targetPart": "Skin",
+    "trueHexCode": "#abb5b7",
+    "imagePath": "/characters/bugs_bunny.webp"
+  },
+  {
+    "id": "kenny_mccormick-parka_coat",
+    "characterName": "Kenny McCormick",
+    "showSource": "South Park (1997)",
+    "targetPart": "Parka Coat",
+    "trueHexCode": "#ed7100",
+    "imagePath": "/characters/kenny_mccormick.webp"
+  },
+  {
+    "id": "charlie_brown-shirt",
+    "characterName": "Charlie Brown",
+    "showSource": "Peanuts (1950)",
+    "targetPart": "Shirt",
+    "trueHexCode": "#ffda06",
+    "imagePath": "/characters/charlie_brown.webp"
+  },
+  {
+    "id": "perry_platypus-skin",
+    "characterName": "Perry the Platypus",
+    "showSource": "Phineas and Ferb (2007)",
+    "targetPart": "Skin",
+    "trueHexCode": "#01cecc",
+    "imagePath": "/characters/perry_platypus.webp"
+  },
+  {
+    "id": "stitch-body_fur",
+    "characterName": "Stitch",
+    "showSource": "Lilo & Stitch (2002)",
+    "targetPart": "Body Fur",
+    "trueHexCode": "#5078a7",
+    "imagePath": "/characters/stitch.webp"
+  },
+  {
+    "id": "pikachu-skin",
+    "characterName": "Pikachu",
+    "showSource": "Pokémon (1997)",
+    "targetPart": "Skin",
+    "trueHexCode": "#fcd33b",
+    "imagePath": "/characters/pikachu.webp"
+  },
+  {
+    "id": "squidward-skin",
+    "characterName": "Squidward Tentacles",
+    "showSource": "SpongeBob SquarePants (1999)",
+    "targetPart": "Skin",
+    "trueHexCode": "#b4d8ca",
+    "imagePath": "/characters/squidward.webp"
+  },
+  {
+    "id": "donald_duck-sailor_jacket",
+    "characterName": "Donald Duck",
+    "showSource": "Mickey Mouse (2013)",
+    "targetPart": "Sailor Jacket",
+    "trueHexCode": "#0281bf",
+    "imagePath": "/characters/donald_duck.webp"
+  },
+  {
+    "id": "luffy-shorts",
+    "characterName": "Monkey D. Luffy",
+    "showSource": "One Piece (1999)",
+    "targetPart": "Shorts",
+    "trueHexCode": "#4e6ab3",
+    "imagePath": "/characters/luffy.webp"
+  },
+  {
+    "id": "spongebob-tie",
+    "characterName": "SpongeBob",
+    "showSource": "SpongeBob SquarePants (1999)",
+    "targetPart": "Tie",
+    "trueHexCode": "#dc2828",
+    "imagePath": "/characters/spongebob-tie.webp"
+  },
+  {
+    "id": "pikachu-cheek_pouches",
+    "characterName": "Pikachu",
+    "showSource": "Pokémon (1997)",
+    "targetPart": "Cheek Pouches",
+    "trueHexCode": "#e04323",
+    "imagePath": "/characters/pikachu-cheek_pouches.webp"
+  },
+  {
+    "id": "donald_duck-bowtie",
+    "characterName": "Donald Duck",
+    "showSource": "Mickey Mouse (2013)",
+    "targetPart": "Bowtie",
+    "trueHexCode": "#bf2e2a",
+    "imagePath": "/characters/donald_duck-bowtie.webp"
+  },
+  {
+    "id": "donald_duck-beak",
+    "characterName": "Donald Duck",
+    "showSource": "Mickey Mouse (2013)",
+    "targetPart": "Beak",
+    "trueHexCode": "#f5a623",
+    "imagePath": "/characters/donald_duck-beak.webp"
+  },
+  {
+    "id": "eric_cartman-beanie",
+    "characterName": "Eric Cartman",
+    "showSource": "South Park (1997)",
+    "targetPart": "Beanie",
+    "trueHexCode": "#5bafce",
+    "imagePath": "/characters/eric_cartman-beanie.webp"
+  },
+  {
+    "id": "patrick_star-body_skin",
+    "characterName": "Patrick Star",
+    "showSource": "SpongeBob SquarePants (1999)",
+    "targetPart": "Body Skin",
+    "trueHexCode": "#f18faf",
+    "imagePath": "/characters/patrick_star-body_skin.webp"
+  }
+]

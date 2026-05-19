@@ -9,7 +9,7 @@ export function Scoreboard({ results, playerId }: ScoreboardProps) {
   const sorted = [...results].sort((a, b) => b.totalScore - a.totalScore);
 
   return (
-    <div className="w-full max-w-sm mx-auto bg-surface-light rounded-xl p-4">
+    <div className="mx-auto w-[220px] max-w-full shrink-0 rounded-xl bg-surface-light p-4">
       <h3 className="text-sm font-semibold text-white/60 uppercase mb-2">Scoreboard</h3>
       <div className="space-y-1">
         {sorted.map((player, index) => (

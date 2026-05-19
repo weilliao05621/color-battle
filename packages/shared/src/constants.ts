@@ -1,4 +1,4 @@
-export const ROUND_TIME_MS = 10_000;
+export const ROUND_TIME_MS = 20_000;
 export const REVEAL_TIME_MS = 5_000;
 export const COUNTDOWN_SECONDS = 3;
 export const TOTAL_ROUNDS = 20;
